@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ALBERTEINSTEIN</title>
+        <link rel="icon" 
+        href="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2015/11/albert-einstein-retrato-scaled.jpg?fit=2560%2C1985&quality=50&strip=all&ssl=1">
+    </head>    
+<head>
+    <style>
+ 
+        /* Styling the body element
+        like body color and margin */
+         
+        body {
+            background-color: #7773ef;
+            margin: 20%;
+        }
+ 
+        /* Styling the Title and giving
+        shadow to the title */
+        #title {
+            text-align: center;
+            text-shadow: 5px 5px 10px white;
+            font-size: 7vh;
+        }
+ 
+        /* Setting width and display
+        type of image */
+        img {
+            display: inline-block;
+            width: 100%;
+        }
+ 
+        /* Setting font color and font
+        size of the image-caption */
+        #caption {
+            font-size: 17px;
+            font-family: Gill Sans;
+            color: black;
+        }
+ 
+        /* Styling the content of the page like-
+        padding, font-size, font color etc.*/
+        div#tribute-data {
+            background-color: rgb(46, 139, 87, 0.25);
+            box-shadow: 20px 20px 20px #d2ddb9;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+ 
+        /* Styling the title of the content */
+       h1.title-APJ {
+            font-size: 35px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+ 
+        /* Styling the link provided at the end */
+        #tribute-link {
+            text-decoration: none;
+            color: black;
+        }
+    </style> 
+    
+</head>
+ 
+<body>
+    <main id="main">
+ 
+        <!-- Title of the page -->
+        <h1 id="title">
+            Albert Einstein
+        </h1>
+ 
+        <div id="einstein">
+ 
+            <!--Image of the Tribute Person-->
+            <img src="einstein.jpeg" id="image"
+                alt="Error Loading Image">
+            <small id="caption">
+                He is considered the most important, well-known and popular scientist of the 20th century.
+
+            </small>
+        </div>
+ 
+        <div id="tribute-data">
+ 
+            <!--Achievements and other
+                details of the person-->
+            <h1 class="title-APJ">
+                About the Legend
+            </h1>
+ 
+             
+ 
+<p>
+                In 1905, as an unknown young physicist 
+                employed at the Berne Patent Office,
+                he published his theory of special relativity.<br><br>
+                ☛ In 1915, he presented the theory of general
+                relativity, in which he completely reformulated
+                the concept of gravity. One of the consequences
+                was the emergence of the scientific study of
+                the origin and evolution of the universe by 
+                the branch of physics called cosmology.
+                <br><br>
+                ☛Einstein spent his last years searching for one
+                of the most important theories in physics,
+                the so-called unified field theory.
+                The events of World War I pushed Einstein to
+                engage politically, taking sides. He had contempt
+                for violence, bullying, aggression, and injustice.
+                <br><br>
+                ☛Einstein declared himself an agnostic, and sometimes
+                also declared himself an atheist, although some
+                historians deny this point.
+                <br><br>
+                ☛During World War II, Einstein partially 
+                renounced pacifism by proposing that the United States
+                build a nuclear bomb before Nazi Germany, but publicly
+                warned of the dangers of nuclear war and advocated
+                international control of such weapons.
+                <br><br>
+                ☛Einstein declared himself an agnostic, and sometimes
+                also declared himself an atheist, although some
+                historians deny this point.
+                <br><br>
+                 ☛Einstein declared himself an agnostic, and sometimes
+                 also declared himself an atheist, although some
+                 historians deny this point.
+                <br><br>
+                  ☛Einstein declared himself an agnostic, and sometimes
+                  also declared himself an atheist, although some
+                  historians deny this point.
+                <br><br>
+                ☛Einstein declared himself an agnostic, and sometimes
+                also declared himself an atheist, although some
+                historians deny this point.
+                    <br><br>
+                ☛Einstein spent his last years searching for one
+                of the most important theories in physics,
+                the so-called unified field theory.
+                The events of World War I pushed Einstein to
+                engage politically, taking sides. He had contempt
+                for violence, bullying, aggression, and injustice.
+                <br><br>
+                ☛Einstein declared himself an agnostic, and sometimes
+                also declared himself an atheist, although some
+                historians deny this point.
+                <br><br>
+                ☛Einstein declared himself an agnostic, and sometimes
+                also declared himself an atheist, although some
+                historians deny this point.
+                 <br><br>
+                 ☛Einstein declared himself an agnostic, and sometimes
+                 also declared himself an atheist, although some
+                historians deny this point.
+                <br><br>
+                ☛Einstein spent his last years searching for one
+                of the most important theories in physics,
+                the so-called unified field theory.
+                The events of World War I pushed Einstein to
+                engage politically, taking sides. He had contempt
+                for violence, bullying, aggression, and injustice.
+                <br><br>
+                ☛Einstein declared himself an agnostic, and sometimes
+                also declared himself an atheist, although some
+                historians deny this point.
+                     <br><br>    
+                <br><br><br>
+            </p>
+ 
+ 
+        </div>
+        <br>
+            For more information,
+        check Wikipedia.
+        </small>
+    </main>
+</body>
+ 
+</html>
